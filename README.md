@@ -1,99 +1,90 @@
+
 <div align="center">
 
-# Sebastian Torres
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d91,100:1f6feb&height=140&section=header" />
 
-**Computer Systems Engineering Student · Universidad de las Américas Puebla (UDLAP)**
-
-*Software Development · Rust · Artificial Intelligence · Web Development*
+```
+███████╗███████╗██████╗  █████╗ ███████╗████████╗██╗ █████╗ ███╗   ██╗
+██╔════╝██╔════╝██╔══██╗██╔══██╗██╔════╝╚══██╔══╝██║██╔══██╗████╗  ██║
+███████╗█████╗  ██████╔╝███████║███████╗   ██║   ██║███████║██╔██╗ ██║
+╚════██║██╔══╝  ██╔══██╗██╔══██║╚════██║   ██║   ██║██╔══██║██║╚██╗██║
+███████║███████╗██████╔╝██║  ██║███████║   ██║   ██║██║  ██║██║ ╚████║
+╚══════╝╚══════╝╚═════╝ ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
 <br/>
 
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-1E3A8A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+[![Profile views](https://komarev.com/ghpvc/?username=SebasDeb&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/SebasDeb)
 
 </div>
 
 ---
 
-## About Me
+```
+┌──(sebastian@github)-[~]
+└─$ whoami
 
-I am a Computer Systems Engineering student with a strong interest in **Rust**, **artificial intelligence**, and **machine learning**. My approach to learning is grounded in implementation and experimentation: I strive to understand the fundamentals of each technology by building it from scratch before relying on external libraries.
+  name        : Sebastian Torres
+  location    : Puebla, Mexico
+  studying    : Systems Engineering @ UDLAP
+```
 
-I enjoy solving complex logic problems and developing projects that bridge technical work with real-world needs, whether for clients, the academic community, or fields with little technological presence.
+## About me
 
----
+- Systems Engineering student at UDLAP
+- Mostly writing **Rust** these days, and enjoying every borrow-checker fight
+- Interested in **machine learning**
+- I prefer building things from the ground up to really understand how they work
 
-## Featured Projects
+## Tech stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### PCX — Performance Computer Xperience
-A web platform and online store for a business dedicated to assembling, repairing, and selling computers and components. Developed for a real client in accordance with their corporate brand guidelines.
+**Languages**
 
-`Next.js` `TypeScript` `Tailwind CSS` `Medusa.js`
+[![Languages](https://skillicons.dev/icons?i=rust,py,ts,js,cpp,cs,dart&theme=dark)](https://skillicons.dev)
 
-</td>
+**Frontend & Apps**
 
-<td width="50%" valign="top">
+[![Frontend](https://skillicons.dev/icons?i=react,flutter,tailwind,next&theme=dark)](https://skillicons.dev)
 
+**AI / Data & Tools**
 
-### Personal Portfolio
-A personal website with a visual identity inspired by pixel art, featuring themed navigation, text animations, and custom graphic elements.
+[![Tools](https://skillicons.dev/icons?i=pytorch,git,github,linux,vscode&theme=dark)](https://skillicons.dev)
 
-`React` `Vite` `Tailwind CSS v4`
+</div>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+## GitHub stats
 
-### Image Convolution Demo
-A Rust implementation of the core building blocks of a convolutional neural network (convolution, pooling, and ReLU), with an analysis of their connection to generative architectures such as Stable Diffusion and VAEs. Includes multiple kernels, pooling variants, ASCII visualization, and unit tests.
+<div align="center">
 
-`Rust` `Deep Learning`
-</table>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SebasDeb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=1f6feb" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasDeb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF" />
 
-### In Planning — Mexican College Football Analytics
-There are currently no APIs or open datasets for Mexican college football. This project proposes applying **computer vision** and audio analysis to game broadcasts in order to generate statistics and automated highlights, and to make them available through a public API.
+<img src="https://streak-stats.demolab.com?user=SebasDeb&theme=tokyonight&hide_border=true&background=0d1117&ring=1f6feb&fire=58A6FF&currStreakLabel=58A6FF" />
 
-`Computer Vision` `Audio Processing` `REST API`
+</div>
 
----
-
-## Research
-
-**"Artificial Intelligence as a Tool for the Conservation and Preservation of Indigenous Languages"**
-A literature review examining the potential of machine translation, speech technologies, and AI-based educational tools for preserving Indigenous languages.
-
----
-
-## Areas of Interest
-
-- Systems programming with Rust and WebAssembly
-- Foundations of artificial intelligence and deep learning
-- Computer vision
-- Full-stack web development
-- Data structures and algorithms
-
----
+```
+ ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+ ▓▓▒▒▓▓▒▒▓▓▒▒▓▓▒▒▓▓▒▒▓▓▒▒▓▓▒▒▓▓▒▒▓▓▒▒▓▓▒▒▓▓▒▒▓▓▒▒▓▓▒▒▓▓▒▒▓▓▒▒▓▓▒▒▓▓
+ ░░▒▒░░▒▒░░▒▒░░▒    ▒░░▒▒░░▒▒░░▒▒░░▒▒░░▒▒░░▒▒░░▒▒░░▒▒░░▒▒░░▒▒░░▒▒░░▒▒░░
+```
 
 ## Contact
 
 <div align="center">
 
-<a href="https://portfolio-sebas-deb.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="mailto:charrintorres@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SebasDeb)
+[![Email](https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charrintorres@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://portfolio-sebas-deb.vercel.app/ )
 
-<br/><br/>
+```
+  ┌───────────────────────────────────────────┐
+  │   > thanks for stopping by     :)         │
+  └───────────────────────────────────────────┘
+```
 
-<img src="https://github-readme-stats.vercel.app/api?username=SebasDeb&show_icons=true&theme=tokyonight&hide_border=true" height="155"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasDeb&layout=compact&theme=tokyonight&hide_border=true" height="155"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:0b3d91,100:0d1117&height=110&section=footer" />
 
 </div>
